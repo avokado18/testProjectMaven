@@ -3,6 +3,5 @@ public class Main {
         Summator summator = new Summator();
         System.out.println(summator.concate("hello ", "world"));
         System.out.println(summator.sum(1,15));
-        
     }
 }
